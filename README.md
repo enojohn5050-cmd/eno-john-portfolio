@@ -2,14 +2,12 @@
 # Eno John Portfolio
 This is my personal portfolio website built using HTML and CSS.
 
-
 ## Features
 * Personal profile section
 * Skills section
 * Education section
 * Work experience section
 * Social media links
-
 
 ## Technologies Used
 * HTML5
@@ -21,6 +19,9 @@ This is my personal portfolio website built using HTML and CSS.
 3. Open `index.html` in your browser
 
 ## Project URL
+https://roadmap.sh/projects/single-page-cv
+
+## Live Website
 https://enojohn5050-cmd.github.io/eno-john-portfolio/
 
 ## GitHub Repository
