@@ -22,4 +22,5 @@ This is my personal portfolio website built with HTML and CSS.
 3. Open index.html in your browser.
 
 ## Project URL
+
 https://enojohn5050-cmd.github.io/eno-john-portfolio/
