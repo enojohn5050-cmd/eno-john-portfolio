@@ -11,7 +11,6 @@ This is my personal portfolio website built using HTML and CSS.
 * Social media links
 
 
-
 ## Technologies Used
 * HTML5
 * CSS3
@@ -26,8 +25,3 @@ https://enojohn5050-cmd.github.io/eno-john-portfolio/
 
 ## GitHub Repository
 https://github.com/enojohn5050-cmd/eno-john-portfolio
-
-## Note
-
-This project is deployed using GitHub Pages.
-
